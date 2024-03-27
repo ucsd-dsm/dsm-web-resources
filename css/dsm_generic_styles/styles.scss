@@ -14,10 +14,16 @@ $info: #DEEBF7;
 $warning: #FF7F00;
 $danger: #E31A1C;
 
+// titles
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-sans-serif;
+  color: $primary;
+}
+  
+
 code {
   font-size: 0.9rem  !important;
 }
-
 
 .navbar {
   height: 88px !important;
