@@ -153,7 +153,6 @@ git clone git@github.com:ucsd-dsm/dsm-web-resources.git
         ```html
         <script type="module">
         import { testFunc } from 'https://cdn.jsdelivr.net/gh/ucsd-dsm/dsm-web-resources@main/js/dsm_generic/dsm_generic_funcs_module.min.js';
-
         
         myFunc();
         </script>
